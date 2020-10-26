@@ -17,7 +17,7 @@ services:
       database__connection__password: superghostpasswd@
       database__connection__database: ghost
       # this url value is just an example, and is likely wrong for your environment!
-      url: http://heroblog.info
+      url: example.com
 
   db:
     image: mysql:5.7
